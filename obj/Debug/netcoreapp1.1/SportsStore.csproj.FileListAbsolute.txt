@@ -1,0 +1,170 @@
+C:\Users\myultrabook\myProjects\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\myultrabook\myProjects\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\myultrabook\myProjects\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\myultrabook\myProjects\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\myultrabook\myProjects\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\myultrabook\myProjects\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\myultrabook\myProjects\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\myultrabook\myProjects\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\myultrabook\myProjects\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\myultrabook\myProjects\SportsStoreCh07\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\myultrabook\myProjects\SportsStoreCh07\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\myultrabook\myProjects\SportsStoreCh07\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\myultrabook\myProjects\SportsStoreCh07\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\myultrabook\myProjects\SportsStoreCh07\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\myultrabook\myProjects\SportsStoreCh07\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\myultrabook\myProjects\SportsStoreCh07\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\myultrabook\myProjects\SportsStoreCh07\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\myultrabook\myProjects\SportsStoreCh07\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\SportsStoreCh07\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\kevinz\Downloads\SportsStoreCh07\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\kevinz\Downloads\SportsStoreCh07\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\kevinz\Downloads\SportsStoreCh07\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\SportsStoreCh07\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\SportsStoreCh07\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\kevinz\Downloads\SportsStoreCh07\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\kevinz\Downloads\SportsStoreCh07\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\kevinz\Downloads\SportsStoreCh07\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\kevinz\Downloads\SportsStoreCh07\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\SportsStoreCh07\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\Oleh Antonyuk\Downloads\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\Oleh Antonyuk\Downloads\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\Oleh Antonyuk\Downloads\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\Oleh Antonyuk\Downloads\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\Oleh Antonyuk\Downloads\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\Oleh Antonyuk\Downloads\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\Oleh Antonyuk\Downloads\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Oleh Antonyuk\Downloads\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Oleh Antonyuk\Downloads\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\Oleh Antonyuk\Downloads\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\Oleh Antonyuk\Downloads\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\Project413\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\kevinz\Downloads\Project413\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\kevinz\Downloads\Project413\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\kevinz\Downloads\Project413\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\Project413\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\Project413\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\kevinz\Downloads\Project413\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\kevinz\Downloads\Project413\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\kevinz\Downloads\Project413\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\kevinz\Downloads\Project413\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\Project413\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\Aaron Zheng School\Downloads\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\Aaron Zheng School\Downloads\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\Aaron Zheng School\Downloads\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\Aaron Zheng School\Downloads\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\Aaron Zheng School\Downloads\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\Aaron Zheng School\Downloads\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Zheng School\Downloads\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Zheng School\Downloads\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\Aaron Zheng School\Downloads\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\Aaron Zheng School\Downloads\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Documents\Shit that works\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\kevinz\Documents\Shit that works\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\kevinz\Documents\Shit that works\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\kevinz\Documents\Shit that works\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Documents\Shit that works\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Documents\Shit that works\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\kevinz\Documents\Shit that works\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\kevinz\Documents\Shit that works\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\kevinz\Documents\Shit that works\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\kevinz\Documents\Shit that works\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Documents\Shit that works\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Documents\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\kevinz\Documents\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\kevinz\Documents\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\kevinz\Documents\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Documents\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Documents\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\kevinz\Documents\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\kevinz\Documents\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\kevinz\Documents\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\kevinz\Documents\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Documents\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\Aaron Zheng School\Downloads\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\Aaron Zheng School\Downloads\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\Aaron Zheng School\Downloads\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\Aaron Zheng School\Downloads\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\Aaron Zheng School\Downloads\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\Aaron Zheng School\Downloads\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Zheng School\Downloads\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Zheng School\Downloads\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\Aaron Zheng School\Downloads\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\Aaron Zheng School\Downloads\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\Potato Salad\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\kevinz\Downloads\Potato Salad\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\kevinz\Downloads\Potato Salad\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\kevinz\Downloads\Potato Salad\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\Potato Salad\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\Potato Salad\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\kevinz\Downloads\Potato Salad\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\kevinz\Downloads\Potato Salad\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\kevinz\Downloads\Potato Salad\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\kevinz\Downloads\Potato Salad\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\Potato Salad\Presentation\Presentation\SportsStore(11-5-17)\Project413\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Documents\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\kevinz\Documents\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\kevinz\Documents\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\kevinz\Documents\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Documents\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Documents\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\kevinz\Documents\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\kevinz\Documents\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\kevinz\Documents\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\kevinz\Documents\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Documents\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\Kris\Documents\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\Kris\Documents\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\Kris\Documents\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\Kris\Documents\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\Kris\Documents\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\Kris\Documents\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Documents\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Documents\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Kris\Documents\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\Kris\Documents\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\Kris\Documents\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore - Copy\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore - Copy\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore - Copy\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore - Copy\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore - Copy\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore - Copy\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore - Copy\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore - Copy\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore - Copy\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore - Copy\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore - Copy\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final Copy - Copy\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final Copy - Copy\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final Copy - Copy\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final Copy - Copy\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final Copy - Copy\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final Copy - Copy\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final Copy - Copy\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final Copy - Copy\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final Copy - Copy\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final Copy - Copy\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final Copy - Copy\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\kevinz\Downloads\SportsStore1130\SportsStore Final\obj\Debug\netcoreapp1.1\SportsStore.pdb
